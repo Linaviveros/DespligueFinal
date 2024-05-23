@@ -122,9 +122,9 @@ WSGI_APPLICATION = 'miRecordatorio.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "mydatabase",
-        "USER": "thoxewghor",
-        "PASSWORD": "y$Z5umeOWZR76044",
+        "NAME": "recordatoriosonline-database",
+        "USER": " hyazhgkcmb",
+        "PASSWORD": "JGMR2Vt$i8D5xyyJ",
         "HOST": "127.0.0.1",
         "PORT": "5432",
     }
